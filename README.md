@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clinic Staff API
 
 Spring Boot 3 + MySQL back end for a small clinic's staff management: roles, leave approval
@@ -36,3 +37,6 @@ Plain HTML, CSS and JavaScript in `src/main/resources/static` (`index.html`, `st
 
 ## Next steps
 Switch from HTTP Basic to JWT or sessions, add attendance and document upload.
+=======
+# Clinic-Staff
+>>>>>>> 732c16ad24bb8a68ac5daf4ebd22a29b11dcb82b
